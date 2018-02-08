@@ -53,7 +53,7 @@ var allCountries = [
           'Argentina',
           'ar',
           '54',
-          '+..(...)...-....'
+          '+..(...)....-....'
        ],
        [
           'Armenia (Հայաստան)',
@@ -101,7 +101,7 @@ var allCountries = [
           'Bangladesh (বাংলাদেশ)',
           'bd',
           '880',
-          '+...-..-...-...'
+          '+...-....-...-...'
        ],
        [
           'Barbados',
@@ -143,7 +143,7 @@ var allCountries = [
           'Bhutan (འབྲུག)',
           'bt',
           '975',
-          '+...-.-...-...'
+          '+...-..-...-...'
        ],
        [
           'Bolivia',
@@ -155,7 +155,7 @@ var allCountries = [
           'Bosnia and Herzegovina (Босна и Херцеговина)',
           'ba',
           '387',
-          '+...-..-....'
+          '+...-..-... ...'
        ],
        [
           'Botswana',
@@ -308,7 +308,7 @@ var allCountries = [
           'China (中国)',
           'cn',
           '86',
-          '+.. ..-........'
+          '+.. ...-.... ....'
        ],
        [
           'Colombia',
@@ -356,7 +356,7 @@ var allCountries = [
           'Croatia (Hrvatska)',
           'hr',
           '385',
-          '+...-..-...-...'
+          '+...-..-...-....'
        ],
        [
           'Cuba',
@@ -368,7 +368,7 @@ var allCountries = [
           'Curaçao',
           'cw',
           '599',
-          '+...-...-....',
+          '+... . ...-....',
           0
        ],
        [
@@ -417,7 +417,7 @@ var allCountries = [
           'Ecuador',
           'ec',
           '593',
-          '+...-.-...-....'
+          '+...-..-...-....'
        ],
        [
           'Egypt (‫مصر‬‎)',
@@ -447,7 +447,7 @@ var allCountries = [
           'Estonia (Eesti)',
           'ee',
           '372',
-          '+...-...-....'
+          '+...-....-....'
        ],
        [
           'Ethiopia',
@@ -501,7 +501,7 @@ var allCountries = [
           'Gabon',
           'ga',
           '241',
-          '+...-.-..-..-..'
+          '+...-..-..-..-..'
        ],
        [
           'Gambia',
@@ -519,7 +519,7 @@ var allCountries = [
           'Germany (Deutschland)',
           'de',
           '49',
-          '+.. ... .......'
+          '+.. ... ........'
        ],
        [
           'Ghana (Gaana)',
@@ -628,7 +628,7 @@ var allCountries = [
           'Indonesia',
           'id',
           '62',
-          '+..-..-...-..'
+          '+..-...-...-...'
        ],
        [
           'Iran (‫ایران‬‎)',
@@ -652,13 +652,13 @@ var allCountries = [
           'Israel (‫ישראל‬‎)',
           'il',
           '972',
-          '+...-.-...-....'
+          '+...-..-...-....'
        ],
        [
           'Italy (Italia)',
           'it',
           '39',
-          '+.. ... ......',
+          '+.. ... ... ....',
           0
        ],
        [
@@ -671,7 +671,7 @@ var allCountries = [
           'Japan (日本)',
           'jp',
           '81',
-          '+.. ... .. ....'
+          '+.. .. .... ....'
        ],
        [
           'Jordan (‫الأردن‬‎)',
@@ -714,7 +714,7 @@ var allCountries = [
           'Laos (ລາວ)',
           'la',
           '856',
-          '+...-..-...-...'
+          '+...-..-..-...-...'
        ],
        [
           'Latvia (Latvija)',
@@ -726,7 +726,7 @@ var allCountries = [
           'Lebanon (‫لبنان‬‎)',
           'lb',
           '961',
-          '+...-.-...-...'
+          '+...-..-...-...'
        ],
        [
           'Lesotho',
@@ -744,7 +744,7 @@ var allCountries = [
           'Libya (‫ليبيا‬‎)',
           'ly',
           '218',
-          '+...-..-...-...'
+          '+...-..-.......'
        ],
        [
           'Liechtenstein',
@@ -840,7 +840,7 @@ var allCountries = [
           'Mexico (México)',
           'mx',
           '52',
-          '+..-..-..-....'
+          '+..-.-...-...-....'
        ],
        [
           'Micronesia',
@@ -858,7 +858,7 @@ var allCountries = [
           'Monaco',
           'mc',
           '377',
-          '+...-..-...-...'
+          '+...-.-..-...-...'
        ],
        [
           'Mongolia (Монгол)',
@@ -888,13 +888,13 @@ var allCountries = [
           'Mozambique (Moçambique)',
           'mz',
           '258',
-          '+...-..-...-...'
+          '+...-..-...-....'
        ],
        [
           'Myanmar (Burma) (မြန်မာ)',
           'mm',
           '95',
-          '+..-...-...'
+          '+.. . ...-....'
        ],
        [
           'Namibia (Namibië)',
@@ -912,7 +912,7 @@ var allCountries = [
           'Nepal (नेपाल)',
           'np',
           '977',
-          '+...-..-...-...'
+          '+... ... ...-....'
        ],
        [
           'Netherlands (Nederland)',
@@ -948,7 +948,7 @@ var allCountries = [
           'Nigeria',
           'ng',
           '234',
-          '+...-..-...-..'
+          '+...-...-...-....'
        ],
        [
           'Niue',
@@ -966,7 +966,7 @@ var allCountries = [
           'North Korea (조선 민주주의 인민 공화국)',
           'kp',
           '850',
-          '+...-...-...'
+          '+... ... ...-....'
        ],
        [
           'Northern Mariana Islands',
@@ -1008,7 +1008,7 @@ var allCountries = [
           'Panama (Panamá)',
           'pa',
           '507',
-          '+...-...-....'
+          '+...-....-....'
        ],
        [
           'Papua New Guinea',
@@ -1032,7 +1032,7 @@ var allCountries = [
           'Philippines',
           'ph',
           '63',
-          '+.. ... ....'
+          '+.. ... ... ....'
        ],
        [
           'Poland (Polska)',
@@ -1153,7 +1153,7 @@ var allCountries = [
           'Saudi Arabia (‫المملكة العربية السعودية‬‎)',
           'sa',
           '966',
-          '+...-.-...-....'
+          '+...-..-...-....'
        ],
        [
           'Senegal (Sénégal)',
@@ -1207,13 +1207,13 @@ var allCountries = [
           'Solomon Islands',
           'sb',
           '677',
-          '+...-.....'
+          '+... ... ....'
        ],
        [
           'Somalia (Soomaaliya)',
           'so',
           '252',
-          '+...-.-...-...'
+          '+...-..-...-...'
        ],
        [
           'South Africa',
@@ -1225,7 +1225,7 @@ var allCountries = [
           'South Korea (대한민국)',
           'kr',
           '82',
-          '+..-..-...-....'
+          '+.. ..-....-....'
        ],
        [
           'South Sudan (‫جنوب السودان‬‎)',
@@ -1255,7 +1255,7 @@ var allCountries = [
           'Suriname',
           'sr',
           '597',
-          '+...-...-...'
+          '+...-...-....'
        ],
        [
           'Swaziland',
@@ -1285,7 +1285,7 @@ var allCountries = [
           'Taiwan (台灣)',
           'tw',
           '886',
-          '+...-....-....'
+          '+... ...-...-...'
        ],
        [
           'Tajikistan',
@@ -1303,13 +1303,13 @@ var allCountries = [
           'Thailand (ไทย)',
           'th',
           '66',
-          '+..-..-...-...'
+          '+..-..-...-....'
        ],
        [
           'Timor-Leste',
           'tl',
           '670',
-          '+...-...-....'
+          '+...-....-....'
        ],
        [
           'Togo',
@@ -1327,7 +1327,7 @@ var allCountries = [
           'Tonga',
           'to',
           '676',
-          '+...-.....'
+          '+... ... ....'
        ],
        [
           'Trinidad and Tobago',
@@ -1363,7 +1363,7 @@ var allCountries = [
           'Tuvalu',
           'tv',
           '688',
-          '+...-.....'
+          '+...-......'
        ],
        [
           'U.S. Virgin Islands',
@@ -1387,7 +1387,7 @@ var allCountries = [
           'United Arab Emirates (‫الإمارات العربية المتحدة‬‎)',
           'ae',
           '971',
-          '+...-.-...-....'
+          '+...-..-...-....'
        ],
        [
           'United Kingdom',
@@ -1418,7 +1418,7 @@ var allCountries = [
           'Vanuatu',
           'vu',
           '678',
-          '+...-.....'
+          '+... ... ....'
        ],
        [
           'Vatican City (Città del Vaticano)',
@@ -1449,7 +1449,7 @@ var allCountries = [
           'Yemen (‫اليمن‬‎)',
           'ye',
           '967',
-          '+...-.-...-...'
+          '+...-...-...-...'
        ],
        [
           'Zambia',
@@ -1461,7 +1461,7 @@ var allCountries = [
           'Zimbabwe',
           'zw',
           '263',
-          '+...-.-......'
+          '+...-..-... ....'
        ]
    ];
 
