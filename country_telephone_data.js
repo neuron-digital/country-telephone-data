@@ -1050,7 +1050,7 @@ var allCountries = [
           'Puerto Rico',
           'pr',
           '1',
-          '',
+          '+. ...-...-....',
           3,
           [
              '787',
@@ -1122,7 +1122,8 @@ var allCountries = [
        [
           'Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)',
           'pm',
-          '508'
+          '508',
+          '+... .. .. ..',
        ],
        [
           'Saint Vincent and the Grenadines',
