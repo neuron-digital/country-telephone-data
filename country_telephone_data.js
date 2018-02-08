@@ -555,7 +555,7 @@ var allCountries = [
           'Guadeloupe',
           'gp',
           '590',
-          '',
+          '+... ... ..-....',
           0
        ],
        [
@@ -1092,7 +1092,7 @@ var allCountries = [
           'Saint Barthélemy (Saint-Barthélemy)',
           'bl',
           '590',
-          '',
+          '+... ... ..-....',
           1
        ],
        [
@@ -1116,7 +1116,7 @@ var allCountries = [
           'Saint Martin (Saint-Martin (partie française))',
           'mf',
           '590',
-          '',
+          '+... ... ..-....',
           2
        ],
        [
